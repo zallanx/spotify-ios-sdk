@@ -1,4 +1,4 @@
-# Spotify iOS SDK
+# Spotify iOS SDK -
 
 ## Overview
 
